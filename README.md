@@ -45,4 +45,5 @@ Lanjutkan program Flappy Bird di atas dan tambahkan fitur-fitur berikut:
     - Pilih data yang ingin dihapus, lalu klik button 'Hapus'.
     - Menjalankan query delete data from database.
     - END.
-Video preview dan desain program pada folder dokumentasi.
+## Note
+- Video preview dan desain program pada folder dokumentasi.
