@@ -2,8 +2,6 @@
 # Janji
 Saya Ridwan Albana NIM 2105745 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan Aamiin.
 # Soal
-Lanjutkan program Flappy Bird di atas dan tambahkan fitur-fitur berikut:
-
     1. Buatlah database berdasarkan kode tersebut
     2. Ubah arsitektur project tersebut menggunakan MVC
     3. Tambahkan tabel baru (1 - 2) yang berelasi dengan tabel yang sudah ada (Tabel dan Relasinya bebas ya)
