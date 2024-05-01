@@ -1,6 +1,6 @@
-# LP7DPBO2024C1
+# TP4DPBO2024C1
 # Janji
-Saya Ridwan Albana NIM 2105745 mengerjakan Latihan Praktikum 7 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan Aamiin.
+Saya Ridwan Albana NIM 2105745 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan Aamiin.
 # Soal
 Lanjutkan program Flappy Bird di atas dan tambahkan fitur-fitur berikut:
 
