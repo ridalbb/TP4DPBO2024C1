@@ -4,10 +4,10 @@ Saya Ridwan Albana NIM 2105745 mengerjakan Tugas Praktikum 4 dalam mata kuliah D
 # Soal
 Lanjutkan program Flappy Bird di atas dan tambahkan fitur-fitur berikut:
 
-    1. Hentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame (Game Over);
-    2. Setelah Game Over, tambahkan fungsionalitas untuk restart permainan dengan menekan tombol “R” pada keyboard.
-    3. Buat sebuah JLabel untuk menampilkan skor;
-    4. Tambah skor (+1) setiap kali player melewati pipa;
+    1. Buatlah database berdasarkan kode tersebut
+    2. Ubah arsitektur project tersebut menggunakan MVC
+    3. Tambahkan tabel baru (1 - 2) yang berelasi dengan tabel yang sudah ada (Tabel dan Relasinya bebas ya)
+    4. Buat CRUD dari tabel baru terseb
 ## Alur Program:
 - User dapat melihat list members dengan mengklik link 'Home' atau 'LIST MEMBER' pada bagian navbar.
 - User dapat melakukan CRUD member club:
